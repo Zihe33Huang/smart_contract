@@ -1,0 +1,11 @@
+[database]
+nayuki = "root:q980330@tcp(127.0.0.1:3306)/cocafe?charset=utf8mb4&parseTime=True&loc=Local"
+middle = "basketball_club:wFxfziAwmE836aW2@tcp(jeremyhuang.club:3306)/basketball_club?charset=utf8mb4&parseTime=True&loc=Local"
+
+[contract]
+contractAddress = "cfxtest:achm1w61017xvyjzh61emxvrwa0rfbvj824bfxc0w8"
+net = "https://test.confluxrpc.com"
+
+[vault]
+url = "http://localhost:61669"
+sk = "0x8e17250f9a97499759cc8d6295410ae47dfea8cb04ee54d3a27fd76ea5373be2"
